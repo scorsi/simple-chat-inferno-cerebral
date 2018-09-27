@@ -1,7 +1,7 @@
 {
-  "name": "simple-counter-inferno-cerebral-fusebox",
-  "homepage": "https://github.com/scorsi/simple-counter-inferno-cerebral-fusebox",
-  "repository": "github:scorsi/simple-counter-inferno-cerebral-fusebox",
+  "name": "simple-chat-inferno-cerebral",
+  "homepage": "https://github.com/scorsi/simple-chat-inferno-cerebral",
+  "repository": "github:scorsi/simple-chat-inferno-cerebral",
   "license": "UNLICENSED",
   "private": true,
   "authors": [
